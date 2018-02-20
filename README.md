@@ -10,4 +10,4 @@ Install the requirements and run `python main.py`
 
 ## Example
 
-![lifx-leap-theremin](https://www.dropbox.com/s/dscaegp1g2oienp/lifx-leap-theremin.gif?dl=1)
+![lifx-leap-theremin](./images/lifx-leap-theremin.gif)
